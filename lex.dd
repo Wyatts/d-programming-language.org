@@ -1035,6 +1035,8 @@ $(MULTICOLS 4,
     $(D $(XLINK2 traits.html, __traits))
     $(D $(XLINK2 phobos/core_simd.html#.Vector,__vector))
     $(D $(XLINK2 expression.html#IsExpression, __parameters))
+    $(D __argTypes)
+    $(D __overloadset)
 ))
 
 $(H3 Globally Defined Symbols)
